@@ -60,3 +60,12 @@ node <script> "your prompt" --token YOUR_TOKEN
 
 Returns a direct image URL.
 
+## Example Output
+
+```bash
+node retrotravelpostergenerator.js "vintage retro travel poster illustration, 1950s tourism advertising style, bold flat colors, stylized landmarks and scenery, art deco typography space, screen-printed texture, WPA national park poster aesthetic, golden age of travel, nostalgic composition, clean geometric shapes, muted palette with pops of saturated color"
+```
+
+![Example output](https://oss.talesofai.cn/picture/b02dbf93-5e6b-42d9-9451-05b33a9d970f.webp)
+
+> Prompt: *"vintage retro travel poster illustration, 1950s tourism advertising style, bold flat colors, stylized landmarks and scenery, art deco typography space, screen-printed texture, WPA national park poster aesthetic, golden age of travel, nostalgic composition, clean geometric shapes, muted palette with pops of saturated color"*
